@@ -9,7 +9,7 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
-  "author": "Saiyam Jain",
+  "author": "Fusion",
   "license": "ISC",
   "dependencies": {
     "@emoji-mart/data": "^1.1.2",
