@@ -1,4 +1,4 @@
 {
   "buildCommand": "npm run build",
-  "outputDirectory": "dist"   // change to "build" if CRA
+  "outputDirectory": "build"   // change to "build" if CRA
 }
